@@ -1,2 +1,2 @@
 🌠 dotnet / go / deno 🌃
-Please let Visual Studio die
+🧚🏻 Please let Visual Studio die
